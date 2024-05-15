@@ -1,4 +1,5 @@
-import React from "react";
+/* eslint-disable react/prop-types */
+
 import { useSelector } from "react-redux";
 
 import "./style.scss";
